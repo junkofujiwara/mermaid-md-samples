@@ -1,4 +1,4 @@
-# mermaid markdown samples
+# Mermaid Markdown Samples
 
 References
 - [About Mermaid](https://mermaid-js.github.io/mermaid)
